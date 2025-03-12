@@ -1,0 +1,8 @@
+# Ignorar archivos de Excel
+*.xlsx
+*.json
+1.py
+imagen.py
+rucs.py
+sunat.py
+validez.py
